@@ -28,7 +28,7 @@ git clone https://github.com/Y-Baker/alx_travel_app.git
 
 2. Start Virtual Environment
 ```bash
-source .env/bin/activate
+source .env/bin/activate  # deactivate (for stop virtual env)
 ```
 
 3. Install Dependencies
